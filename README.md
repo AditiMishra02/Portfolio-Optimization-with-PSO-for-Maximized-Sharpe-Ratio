@@ -23,6 +23,9 @@ This repository houses a financial portfolio optimization tool developed using P
 ## Results
 
 The optimized portfolio achieved a balanced asset allocation with maximized Sharpe ratio, leading to enhanced risk-adjusted performance.
+Optimal Portfolio Weights: [0.14485298 0.32144943 0.53369759]
+Optimal Portfolio Return: 0.015010062621142822
+Optimal Portfolio Volatility: 0.0013236549826573269
 
 ## Acknowledgments
 
